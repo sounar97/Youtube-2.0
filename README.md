@@ -24,13 +24,13 @@ This repository contains the source code for a web application built with React.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/sounar97/Youtube-2.0.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd your-repo-name
+   cd Youtube-2.0
    npm install  # or yarn install
    ```
 
@@ -60,14 +60,6 @@ This repository contains the source code for a web application built with React.
 
 * React.js (frontend)
 * RapidAPI (for external API access)
-
-**Contributing:**
-
-We welcome contributions to this project! Please see the CONTRIBUTING.md file (create one if it doesn't exist) for guidelines on how to contribute.
-
-**License:**
-
-This project is licensed under the (insert your chosen license, e.g., MIT License). See the LICENSE file for details.
 
 **Additional Notes:**
 
